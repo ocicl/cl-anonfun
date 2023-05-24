@@ -1,0 +1,9 @@
+* cl-anonfun
+
+Anonymous function helpers for Common Lisp
+
+|---------+-----------------------------------------------------|
+| source  | git:https://github.com/arielnetworks/cl-anonfun.git |
+| commit  | ef3c16c                                             |
+| systems | cl-anonfun                                          |
+|---------+-----------------------------------------------------|
