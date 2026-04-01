@@ -7,3 +7,4 @@ Anonymous function helpers for Common Lisp
 | commit  | ef3c16c                                             |
 | systems | cl-anonfun                                          |
 |---------+-----------------------------------------------------|
+ 
